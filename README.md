@@ -1,2 +1,4 @@
 # IPL-file
-Data Cleaning
+Sorting 
+Data visualization
+using Seaborn
